@@ -6,13 +6,13 @@
 //  Copyright (c) 2015 Richmond Watkins. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "PTViewController.h"
 
-@interface ViewController ()
+@interface PTViewController ()
 
 @end
 
-@implementation ViewController
+@implementation PTViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

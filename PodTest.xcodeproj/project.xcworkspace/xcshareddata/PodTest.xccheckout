@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8855EF50-9E4D-4FD0-9C38-F3418C48E0AB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PodTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FAD10C75D9252DF22EE768F8BC4127E2B36FCD37</key>
+		<string>github.com:richmondwatkins/PodTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PodTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FAD10C75D9252DF22EE768F8BC4127E2B36FCD37</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:richmondwatkins/PodTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FAD10C75D9252DF22EE768F8BC4127E2B36FCD37</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FAD10C75D9252DF22EE768F8BC4127E2B36FCD37</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PodTest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
